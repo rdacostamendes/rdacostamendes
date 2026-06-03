@@ -9,4 +9,4 @@ Sou estudante do 1º semestre de **Análise e Desenvolvimento de Sistemas (ADS)*
 ### 📌 Projetos em Destaque:
 * [GestaoDeAtivosNaTecnoLogSA](https://github.com/rdacostamendes/GestaoadeativosnaTecnoLogSA): Módulo ERP em C utilizando alocação dinâmica de memória (`realloc`) e aritmética de ponteiros para fechamento de balanço patrimonial.
 
-📫 Como me encontrar: [Seu LinkedIn aqui]
+📫 Como me encontrar: https://www.linkedin.com/in/rdacostamendes/
